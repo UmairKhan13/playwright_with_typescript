@@ -1,0 +1,14 @@
+{
+    "artworkName":"artwork test",
+    "descriptionText":"This is a art work",
+    "currentPriceValue":"1.5",
+    "priceAtPrimarySalesValue":"1.2",
+    "primarySaleBuyerTextBox":"abc@gmail.com",
+    "filePath":"test-data/art-work-test-data/abc.png",
+    "artWorkFilePath":"test-data/art-work-test-data/art-work-name.txt",
+    "spaceKey":"Space",
+    "reviweTitle":"Test Title",
+    "reviewDescription":"Test Description",
+    "reviewCreatedMsgTxt":"Review Created!",
+    "artworkCreatedMsgTxt":"Your artwork is uploaded successfully."
+}

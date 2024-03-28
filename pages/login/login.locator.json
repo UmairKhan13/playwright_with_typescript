@@ -1,0 +1,7 @@
+{
+    "loginNavigateBtn":"//a[@href='/login']",
+    "emailTextBox":"#email",
+    "passwordTextBox":"#password",
+    "loginBtn":"button[type='submit']",
+    "userIconBox":"#dropdownDefaultButton"
+}
